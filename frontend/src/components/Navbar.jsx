@@ -19,25 +19,25 @@ const Navbar = () => {
       }}
     >
       <a href="#home" style={{ color: "black", textDecoration: "none" }}>
-        Home
+        home
       </a>
       <a href="#about" style={{ color: "black", textDecoration: "none" }}>
-        About
+        aashna, who?
       </a>
       <Link to="/explore" style={{ color: "black", textDecoration: "none" }}>
-        Explore
+        play around
       </Link>
       <Link to="/blogs" style={{ color: "black", textDecoration: "none" }}>
-        Blogs
+        blogs
       </Link>
       <Link to="/what" style={{ color: "black", textDecoration: "none" }}>
-        What
+        what
       </Link>
       <Link to="/why" style={{ color: "black", textDecoration: "none" }}>
-        Why
+        why
       </Link>
       <Link to="/how" style={{ color: "black", textDecoration: "none" }}>
-        How
+        how
       </Link>
     </nav>
   );

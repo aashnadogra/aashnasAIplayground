@@ -97,14 +97,14 @@ section {
 }
 
 section h2 {
-  font-size: 3rem;
-  font-family: 'Lobster', cursive; /* Fun font for section titles */
-  margin-bottom: 20px;
+  font-size: 6rem;
+  font-family: 'Papyrus', cursive; /* Fun font for section titles */
+  margin-bottom: 40px;
 }
 
 section p {
-  font-size: 1.2rem;
-  font-family: 'Poppins', sans-serif; /* Complementary font for body text */
+  font-size: 1rem;
+  font-family: 'Lucida Handwriting', sans-serif; /* Complementary font for body text */
   color: #333;
 }
 
