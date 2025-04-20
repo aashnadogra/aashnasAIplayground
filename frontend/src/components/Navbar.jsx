@@ -24,12 +24,12 @@ const Navbar = () => {
       <a href="#about" style={{ color: "black", textDecoration: "none" }}>
         aashna, who?
       </a>
-      <Link to="/explore" style={{ color: "black", textDecoration: "none" }}>
+      <a href="#explore1" style={{ color: "black", textDecoration: "none" }}>
         play around
-      </Link>
-      <Link to="/blogs" style={{ color: "black", textDecoration: "none" }}>
+      </a>
+      <a href="#blogs" style={{ color: "black", textDecoration: "none" }}>
         blogs
-      </Link>
+      </a>
 
     </nav>
   );
